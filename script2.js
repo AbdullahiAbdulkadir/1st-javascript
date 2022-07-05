@@ -21,7 +21,7 @@ const button = document.getElementById("btn")
 button.addEventListener("click",
 
 function(){
-    myHeading.style.color="pink"
+    myHeading.style.color="pin"
 }
 
 )
